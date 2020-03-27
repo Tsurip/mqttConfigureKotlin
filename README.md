@@ -4,8 +4,7 @@ Um repositório para configurar o uso do protocolo mqtt utilizando kotlin.
 
 /**     MQTTCONFIGURE CLASS
  *
- *      Essa Classe foi feita para configuração do uso do MQTT, sendo necessário algumas aplicações
- *  ao MainActivity ou a Activity em que será desenvolvida.
+ *      Essa Classe foi feita para configuração do uso do MQTT, sendo necessário algumas aplicações ao MainActivity ou a Activity em que será desenvolvida.
  *
  *  PRIMEIRO
  *
@@ -50,13 +49,11 @@ Um repositório para configurar o uso do protocolo mqtt utilizando kotlin.
  *
  *  QUINTO
  *
- *      Insira um objeto com lateinit no início da Activity para que ela seja disponível para toda a
- *  Activity. A mesma será configurada na função Conectar.
+ *      Insira um objeto com lateinit no início da Activity para que ela seja disponível para toda a Activity. A mesma será configurada na função Conectar.
  *
  *  SEXTO
  *
- *      É necessário um receptor para inserir os dados a função. Para isso, uso editText ou insira o
- *  valor de modo direto caso não vá usar os valores aleatórios.
+ *      É necessário um receptor para inserir os dados a função. Para isso, uso editText ou insira o valor de modo direto caso não vá usar os valores aleatórios.
  *
  *  REFERÊNCIAS USADAS
  *
