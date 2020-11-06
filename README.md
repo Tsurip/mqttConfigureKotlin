@@ -55,9 +55,9 @@ Insira um objeto com lateinit no início da Activity para que ela seja disponív
 
 ### REFERÊNCIAS USADAS
 
-[Youtube](https://www.youtube.com/watch?v=NpURY3zE8o8)
-[GitHub](https://github.com/anoop4real/KotlinMQTTSample)
-[GitHub](https://github.com/eclipse/paho.mqtt.android)
-[Medium](https://medium.com/@chaitanya.bhojwani1012/eclipse-paho-mqtt-android-client-using-kotlin-56129ff5fbe7)
-[GitHub](https://github.com/thebehera/mqtt)
+[Youtube - MQTT with Eclipse Paho](https://www.youtube.com/watch?v=NpURY3zE8o8)  
+[GitHub - Kotlin MQTT Sample](https://github.com/anoop4real/KotlinMQTTSample)  
+[GitHub - Paho MQTT Android](https://github.com/eclipse/paho.mqtt.android)  
+[Medium - Eclipse Paho MQTT client using Kotlin](https://medium.com/@chaitanya.bhojwani1012/eclipse-paho-mqtt-android-client-using-kotlin-56129ff5fbe7)  
+[GitHub - Kotlin Cross-Plataform](https://github.com/thebehera/mqtt)  
 
