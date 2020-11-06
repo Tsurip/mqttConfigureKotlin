@@ -1,7 +1,7 @@
 # mqttConfigureKotlin
 
 Um repositório para configurar o uso do protocolo mqtt utilizando kotlin.
-
+~~~kotlin
 /**     MQTTCONFIGURE CLASS
  *
  *      Essa Classe foi feita para configuração do uso do MQTT, sendo necessário algumas aplicações ao MainActivity ou a Activity em que será desenvolvida.
@@ -63,3 +63,4 @@ Um repositório para configurar o uso do protocolo mqtt utilizando kotlin.
  *  https://medium.com/@chaitanya.bhojwani1012/eclipse-paho-mqtt-android-client-using-kotlin-56129ff5fbe7
  *  https://github.com/thebehera/mqtt
  */
+~~~
